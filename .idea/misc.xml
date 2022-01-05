@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/drawable/bg_border.xml" value="0.2526041666666667" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/drawable/bg_border2.xml" value="0.2526041666666667" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/drawable/bg_gradient.xml" value="0.2526041666666667" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/drawable/bg_rounded.xml" value="0.2526041666666667" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/drawable/ic_baseline_warning_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/activity_about.xml" value="0.264" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/activity_homepage.xml" value="0.176" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/activity_login.xml" value="0.23645833333333333" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/activity_main.xml" value="0.128" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/activity_quiz.xml" value="0.2" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/activity_quiz_add.xml" value="0.264" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/activity_quiz_dashboard.xml" value="0.264" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/activity_quiz_dashboard_add.xml" value="0.264" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/activity_quiz_edit.xml" value="0.23645833333333333" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/activity_quiz_result.xml" value="0.23645833333333333" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/activity_register.xml" value="0.23645833333333333" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/item_quiz.xml" value="0.264" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/popup_finish_quiz.xml" value="0.264" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/popup_info.xml" value="0.264" />
+        <entry key="..\:/TUBES_GALERI/HeartApp/app/src/main/res/layout/popup_quiz_finish.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

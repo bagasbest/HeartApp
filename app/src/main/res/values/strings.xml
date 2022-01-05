@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Heart App</string>
+    <string name="image">image</string>
+    <string name="formatted_time">%02d:%02d</string>
+
+
+    <string-array name="time">
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>15 Minutes</item>
+        <item>20 Minutes</item>
+        <item>25 Minutes</item>
+        <item>30 Minutes</item>
+        <item>35 Minutes</item>
+        <item>40 Minutes</item>
+        <item>45 Minutes</item>
+        <item>50 Minutes</item>
+        <item>55 Minutes</item>
+        <item>60 Minutes</item>
+    </string-array>
+</resources>
